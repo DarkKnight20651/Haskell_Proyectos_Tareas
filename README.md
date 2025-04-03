@@ -79,6 +79,29 @@ El código está estructurado de la siguiente manera:
   - Asignación y actualización de tareas.
 - **Interfaz interactiva**: `menuLoop` gestiona la interacción con el usuario mediante la consola.
 
+
+# Pruebas 
+  Seleccionar una opcion no valida 
+  ![Imagen de WhatsApp 2025-04-02 a las 21 03 54_55912e87](https://github.com/user-attachments/assets/8ac10cdf-02a8-4d98-85cd-1b8cc0df51eb)
+
+Buscar un proyecto no existente 
+ ![Imagen de WhatsApp 2025-04-02 a las 21 04 20_82d76248](https://github.com/user-attachments/assets/8751e240-c9e0-4685-8f2f-cb523b7a9b4b)
+
+Crear una tarea 
+![Imagen de WhatsApp 2025-04-02 a las 21 08 47_69df3750](https://github.com/user-attachments/assets/c1aef9df-3f64-4e0e-a67f-18cbfc761aa3)
+
+Eliminar una tarea no encontrada
+![Imagen de WhatsApp 2025-04-02 a las 21 07 03_d07042f4](https://github.com/user-attachments/assets/4cd69799-cf44-4774-9997-3480c281f55f)
+
+Asignar una Tarea 
+![Imagen de WhatsApp 2025-04-02 a las 21 05 45_02c6e530](https://github.com/user-attachments/assets/a042cf72-d957-462b-b184-66ebee05f38e)
+
+
+
+
+
+
+
 ## Contribuciones
  # Pacheco Infanzon Daniel 
  # Santos Venegas Victor Adrian
