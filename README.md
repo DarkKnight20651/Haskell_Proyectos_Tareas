@@ -36,19 +36,37 @@ Si usas Stack:
 stack run
 ```
 
-## Uso
-El sistema presenta un menú interactivo en la consola con las siguientes opciones:
-1. Ver Proyectos
-2. Ver Empleados
-3. Asignar tarea
-4. Marcar tarea como completada
-5. Contar tareas completadas y pendientes
-6. Eliminar tarea
-7. Crear Proyecto
-8. Crear Empleado
-9. Crear Tarea
-10. Eliminar Proyecto
-11. Salir
+## Funciones Disponibles
+
+### Creación
+- `crearProyecto`  
+- `crearEmpleado`  
+
+### Búsqueda
+- `buscarEmpleado`  
+- `buscarProyecto`  
+
+### Gestión de Proyectos y Empleados
+- `agregarProyecto`  
+- `agregarEmpleado`  
+
+### Gestión de Tareas
+- `agregarTarea`  
+- `asignarTarea`  
+- `marcarCompletada`  
+
+### Visualización
+- `verProyectos`  
+- `verEmpleados`  
+- `verEmpleado`  
+- `verTarea`  
+- `verProyecto`  
+- `verTareas`  
+
+### Estadísticas y Eliminación
+- `contarTareas`  
+- `eliminarProyecto`  
+- `eliminarTarea` 
 
 El usuario puede interactuar con el menú ingresando el número de la opción deseada.
 
