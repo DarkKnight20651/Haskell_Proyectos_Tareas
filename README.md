@@ -79,7 +79,7 @@ El código está estructurado de la siguiente manera:
   - Asignación y actualización de tareas.
 - **Interfaz interactiva**: `menuLoop` gestiona la interacción con el usuario mediante la consola.
 
-
+Para mantener una buena practica, despues de seleccionar una opcion dentro del menu, se muestra lo que sea de interes, ya sean proyectos existentes, empleados, tarea asi como su estatus para que al solicitarle el dato al usuario del sistema, pueda hacer una seleccion segura, en caso de elegir un elemento inexistente del sistema se muestra la leyenda que no existe
 # Pruebas 
   Seleccionar una opcion no valida <br>
   ![Imagen de WhatsApp 2025-04-02 a las 21 03 54_55912e87](https://github.com/user-attachments/assets/8ac10cdf-02a8-4d98-85cd-1b8cc0df51eb)
